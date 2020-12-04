@@ -1,0 +1,13 @@
+Bayesian-accu:44.000000
+KMean-accu:57.333333
+KNN-accu:70.666667
+LDA-accu:54.666667
+SVM-linear-accu:68.000000
+SVM-RBF-accu:72.000000
+SVM-Poly-accu:70.666667
+LogReg-accu:55.333333
+RLSovr-accu:57.333333
+RLSonehot-accu:57.333333
+ours-accu:61.333333
+ours-accu:61.333333
+oursKNN-accu:67.333333
