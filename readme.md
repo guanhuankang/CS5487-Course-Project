@@ -4,7 +4,7 @@ Group-5: Huankang Guan, Xianbin Zhu
 
 Project: default course project
 
-Read our report for more details https://github.com/guanhuankang/CS5487-Course-Project/blob/main/report.pdf
+Read our <a href="https://github.com/guanhuankang/CS5487-Course-Project/blob/main/report.pdf">report </a> for more details.
 -------------------------------------------------------------------------
 
 ## Run
